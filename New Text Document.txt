@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include<conio.h>
+void main() {
+    clrscr();
+   printf("hello world\n");
+   printf("hello^world\n");
+   printf("i admire your\"wisdom\",who shows me path\n");
+   printf("hello\n\t world\n");
+   printf("i have 78%% in my BCA course");
+   getch();
+}
